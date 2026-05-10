@@ -1,27 +1,14 @@
-import fs from "fs/promises";
-import path from "path";
 import GalleryGrid from "@/components/GalleryGrid";
 import Link from "next/link";
+import { images } from "@/lib/images";
 
 export const metadata = {
   title: "Photo Gallery — Mother's Day",
   description: "Browse all our cherished Mother's Day memories.",
 };
 
-async function getImages() {
-  const assetDir = path.join(process.cwd(), "public", "asset");
-  try {
-    const files = await fs.readdir(assetDir);
-    return files
-      .filter((f) => /\.(jpg|jpeg|png|gif|webp)$/i.test(f))
-      .map((f) => `/asset/${encodeURIComponent(f)}`);
-  } catch {
-    return [];
-  }
-}
+export default function GalleryPage() {
 
-export default async function GalleryPage() {
-  const images = await getImages();
 
   return (
     <div className="min-h-screen">

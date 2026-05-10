@@ -1,0 +1,75 @@
+// All images in the asset directory
+export const images = [
+  "/asset/WhatsApp%20Image%202026-05-10%20at%205.31.21%20PM%20(1).jpeg",
+  "/asset/WhatsApp%20Image%202026-05-10%20at%205.31.21%20PM.jpeg",
+  "/asset/WhatsApp%20Image%202026-05-10%20at%205.31.22%20PM%20(1).jpeg",
+  "/asset/WhatsApp%20Image%202026-05-10%20at%205.31.22%20PM%20(2).jpeg",
+  "/asset/WhatsApp%20Image%202026-05-10%20at%205.31.22%20PM%20(3).jpeg",
+  "/asset/WhatsApp%20Image%202026-05-10%20at%205.31.22%20PM.jpeg",
+  "/asset/WhatsApp%20Image%202026-05-10%20at%205.31.23%20PM%20(1).jpeg",
+  "/asset/WhatsApp%20Image%202026-05-10%20at%205.31.23%20PM%20(2).jpeg",
+  "/asset/WhatsApp%20Image%202026-05-10%20at%205.31.23%20PM%20(3).jpeg",
+  "/asset/WhatsApp%20Image%202026-05-10%20at%205.31.23%20PM.jpeg",
+  "/asset/WhatsApp%20Image%202026-05-10%20at%205.31.24%20PM%20(1).jpeg",
+  "/asset/WhatsApp%20Image%202026-05-10%20at%205.31.24%20PM%20(2).jpeg",
+  "/asset/WhatsApp%20Image%202026-05-10%20at%205.31.24%20PM%20(3).jpeg",
+  "/asset/WhatsApp%20Image%202026-05-10%20at%205.31.24%20PM.jpeg",
+  "/asset/WhatsApp%20Image%202026-05-10%20at%205.31.25%20PM%20(1).jpeg",
+  "/asset/WhatsApp%20Image%202026-05-10%20at%205.31.25%20PM%20(2).jpeg",
+  "/asset/WhatsApp%20Image%202026-05-10%20at%205.31.25%20PM%20(3).jpeg",
+  "/asset/WhatsApp%20Image%202026-05-10%20at%205.31.25%20PM.jpeg",
+  "/asset/WhatsApp%20Image%202026-05-10%20at%205.31.26%20PM%20(1).jpeg",
+  "/asset/WhatsApp%20Image%202026-05-10%20at%205.31.26%20PM%20(2).jpeg",
+  "/asset/WhatsApp%20Image%202026-05-10%20at%205.31.26%20PM%20(3).jpeg",
+  "/asset/WhatsApp%20Image%202026-05-10%20at%205.31.26%20PM.jpeg",
+  "/asset/WhatsApp%20Image%202026-05-10%20at%205.31.27%20PM.jpeg",
+  "/asset/WhatsApp%20Image%202026-05-10%20at%205.44.04%20PM%20(1).jpeg",
+  "/asset/WhatsApp%20Image%202026-05-10%20at%205.44.04%20PM%20(2).jpeg",
+  "/asset/WhatsApp%20Image%202026-05-10%20at%205.44.04%20PM%20(3).jpeg",
+  "/asset/WhatsApp%20Image%202026-05-10%20at%205.44.04%20PM.jpeg",
+  "/asset/WhatsApp%20Image%202026-05-10%20at%205.44.05%20PM%20(1).jpeg",
+  "/asset/WhatsApp%20Image%202026-05-10%20at%205.44.05%20PM%20(2).jpeg",
+  "/asset/WhatsApp%20Image%202026-05-10%20at%205.44.05%20PM.jpeg",
+  "/asset/WhatsApp%20Image%202026-05-10%20at%205.44.06%20PM%20(1).jpeg",
+  "/asset/WhatsApp%20Image%202026-05-10%20at%205.44.06%20PM%20(2).jpeg",
+  "/asset/WhatsApp%20Image%202026-05-10%20at%205.44.06%20PM%20(3).jpeg",
+  "/asset/WhatsApp%20Image%202026-05-10%20at%205.44.06%20PM.jpeg",
+  "/asset/WhatsApp%20Image%202026-05-10%20at%205.44.07%20PM%20(1).jpeg",
+  "/asset/WhatsApp%20Image%202026-05-10%20at%205.44.07%20PM%20(2).jpeg",
+  "/asset/WhatsApp%20Image%202026-05-10%20at%205.44.07%20PM%20(3).jpeg",
+  "/asset/WhatsApp%20Image%202026-05-10%20at%205.44.07%20PM.jpeg",
+  "/asset/WhatsApp%20Image%202026-05-10%20at%205.44.08%20PM%20(1).jpeg",
+  "/asset/WhatsApp%20Image%202026-05-10%20at%205.44.08%20PM%20(2).jpeg",
+  "/asset/WhatsApp%20Image%202026-05-10%20at%205.44.08%20PM%20(3).jpeg",
+  "/asset/WhatsApp%20Image%202026-05-10%20at%205.44.08%20PM.jpeg",
+  "/asset/WhatsApp%20Image%202026-05-10%20at%205.44.09%20PM%20(1).jpeg",
+  "/asset/WhatsApp%20Image%202026-05-10%20at%205.44.09%20PM%20(2).jpeg",
+  "/asset/WhatsApp%20Image%202026-05-10%20at%205.44.09%20PM%20(3).jpeg",
+  "/asset/WhatsApp%20Image%202026-05-10%20at%205.44.09%20PM.jpeg",
+  "/asset/WhatsApp%20Image%202026-05-10%20at%205.44.10%20PM%20(1).jpeg",
+  "/asset/WhatsApp%20Image%202026-05-10%20at%205.44.10%20PM%20(2).jpeg",
+  "/asset/WhatsApp%20Image%202026-05-10%20at%205.44.10%20PM%20(3).jpeg",
+  "/asset/WhatsApp%20Image%202026-05-10%20at%205.44.10%20PM.jpeg",
+  "/asset/WhatsApp%20Image%202026-05-10%20at%205.44.11%20PM%20(1).jpeg",
+  "/asset/WhatsApp%20Image%202026-05-10%20at%205.44.11%20PM%20(2).jpeg",
+  "/asset/WhatsApp%20Image%202026-05-10%20at%205.44.11%20PM%20(3).jpeg",
+  "/asset/WhatsApp%20Image%202026-05-10%20at%205.44.11%20PM.jpeg",
+  "/asset/WhatsApp%20Image%202026-05-10%20at%205.44.12%20PM%20(1).jpeg",
+  "/asset/WhatsApp%20Image%202026-05-10%20at%205.44.12%20PM%20(2).jpeg",
+  "/asset/WhatsApp%20Image%202026-05-10%20at%205.44.12%20PM.jpeg",
+  "/asset/WhatsApp%20Image%202026-05-10%20at%205.44.13%20PM%20(1).jpeg",
+  "/asset/WhatsApp%20Image%202026-05-10%20at%205.44.13%20PM%20(2).jpeg",
+  "/asset/WhatsApp%20Image%202026-05-10%20at%205.44.13%20PM%20(3).jpeg",
+  "/asset/WhatsApp%20Image%202026-05-10%20at%205.44.13%20PM.jpeg",
+];
+
+// Landscape images only (ratio >= 1.2) — perfect for the slideshow
+export const landscapeImages = [
+  "/asset/WhatsApp%20Image%202026-05-10%20at%205.44.04%20PM%20(2).jpeg",   // 1599x1187
+  "/asset/WhatsApp%20Image%202026-05-10%20at%205.44.04%20PM%20(3).jpeg",   // 1280x960
+  "/asset/WhatsApp%20Image%202026-05-10%20at%205.44.08%20PM.jpeg",         // 1280x960
+  "/asset/WhatsApp%20Image%202026-05-10%20at%205.44.09%20PM%20(1).jpeg",   // 1280x960
+  "/asset/WhatsApp%20Image%202026-05-10%20at%205.44.09%20PM%20(3).jpeg",   // 1599x1200
+  "/asset/WhatsApp%20Image%202026-05-10%20at%205.44.11%20PM%20(1).jpeg",   // 1600x1200
+  "/asset/WhatsApp%20Image%202026-05-10%20at%205.44.11%20PM%20(2).jpeg",   // 1536x1004
+];

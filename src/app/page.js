@@ -3,12 +3,11 @@ import Slideshow from "@/components/Slideshow";
 import QuoteSection from "@/components/QuoteSection";
 import Highlights from "@/components/Highlights";
 import MessageSection from "@/components/MessageSection";
-import { images } from "@/lib/images";
+import { images, landscapeImages } from "@/lib/images";
 
 export default function Home() {
 
-  // Pick first 8 for the slideshow
-  const slideshowImages = images.slice(0, 8);
+  const slideshowImages = landscapeImages;
 
   return (
     <>
